@@ -1,0 +1,12 @@
+package com.company;
+
+import java.awt.*;
+
+public class frame1 {
+	public class frame1 {
+		public static void main (string[] args) {
+			frame f1=new frame();
+			f1.setsize(400,250);
+			f1.setVisible(true);
+	}
+}
